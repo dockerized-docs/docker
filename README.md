@@ -11,7 +11,7 @@ Dockerzied docker documentation for offline use.
 # How to use this image #
 
 ```console
-$ docker run -d genadipost/dockerized-docs-docker
+$ docker run -d genadipost/docker
 
 ```
 You can test it by visiting http://container-ip:8080
