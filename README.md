@@ -1,6 +1,6 @@
 # dockerized-docs-docker
 
-# What is it?#
+# What is it?
 Dockerzied docker documentation for offline use.
 
 # Image description #
