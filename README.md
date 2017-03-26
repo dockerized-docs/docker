@@ -5,8 +5,8 @@ Dockerzied docker documentation for offline use.
 
 # Image description #
 - Base image: `alpine:3.3`
-- The docker.github.io master branch is cloned.
-- Jekyll is installed using bundle.
+- The docker.github.io master branch is cloned
+- Jekyll is installed using bundle
 
 # How to use this image #
 
